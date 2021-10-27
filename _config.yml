@@ -120,4 +120,5 @@ minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "n
 site.locale: en-US
 title: "My Awesome Site"
 url       : https://huizhao.github.io
+baseurl : /huizhao
 repository: " huizhao0804z/huizhao.github.io "
