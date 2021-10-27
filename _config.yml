@@ -79,7 +79,7 @@ baidu_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :  "@HuiZhao37176435"
+  username               : "@HuiZhao37176435"
 facebook:
   username               :
   app_id                 :
@@ -126,7 +126,7 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
-    - label:"ResearchGate"
+    - label: "ResearchGate"
       url: "https://www.researchgate.net/profile/Hui-Zhao-64"
 
 # Site Footer
