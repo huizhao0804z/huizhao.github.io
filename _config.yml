@@ -106,11 +106,11 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
   location         : "Florida, US"
-  email            :
+  email            : "zhao.h@ufl.edu
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "zhao.h@ufl.edu"
+      # url: "zhao.h@ufl.edu"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -290,3 +290,21 @@ defaults:
       comments: # true
       share: true
       related: true
+  # _publications
+  - scope:
+      path: ""
+      type: publications
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _learning
+  - scope:
+      path: ""
+      type: learning
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
