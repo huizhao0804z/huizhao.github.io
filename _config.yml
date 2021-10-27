@@ -58,7 +58,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Hui Zhao"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
@@ -113,3 +113,11 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+  
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
+
+site.locale: en-US
+title: "My Awesome Site"
+url:"https://huizhao.com"
+repository: " huizhao0804z/huizhao.github.io "
